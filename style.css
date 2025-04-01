@@ -1,0 +1,11 @@
+.container .top .features img{
+    width: 16px;
+    display: inline;
+    margin-bottom: -4px;
+    background-color: transparent;
+}
+
+.container .top .features p{
+    display: inline-block;
+}
+
